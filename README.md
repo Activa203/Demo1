@@ -1,2 +1,1 @@
-# Demo1
-demo for hub
+This is instruction manual for project.
